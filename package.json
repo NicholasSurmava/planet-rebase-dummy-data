@@ -1,0 +1,13 @@
+{
+  "name": "planet-rebase-dummy-db",
+  "version": "1.0.0",
+  "description": "Dummy rest API for Planet Rebase",
+  "main": "index.js",
+  "repository": "git@github.com:NicholasSurmava/planet-rebase-dummy-data.git",
+  "author": "Nicholas Surmava <nicholas.surmava@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "json-server": "^0.14.0"
+  }
+}
