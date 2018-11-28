@@ -7,6 +7,9 @@
   "author": "Nicholas Surmava <nicholas.surmava@gmail.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "dev": "json-server --watch db/dummy.json"
+  },
   "dependencies": {
     "json-server": "^0.14.0"
   }
